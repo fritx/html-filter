@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "mocha"  
+  },
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "lodash": "^4.5.1"
+  },
+  "devDependencies": {
+    "jsdom": "^8.1.0",
+    "should": "^8.2.2"
+  }
+}
